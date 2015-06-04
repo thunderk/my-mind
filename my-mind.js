@@ -3514,8 +3514,8 @@ MM.Backend.GDrive = Object.create(MM.Backend, {
 	id: {value: "gdrive"},
 	label: {value: "Google Drive"},
 	scope: {value: "https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/drive.install"},
-	clientId: {value: "767837575056-h87qmlhmhb3djhaaqta5gv2v3koa9hii.apps.googleusercontent.com"},
-	apiKey: {value: "AIzaSyCzu1qVxlgufneOYpBgDJXN6Z9SNVcHYWM"},
+	clientId: {value: "344956597097-4tr12j4mvl4qg873j93uh7a871bb7ntn.apps.googleusercontent.com"},
+	apiKey: {value: "AIzaSyAnKEEHw9MezYJJ6pIq2qLpdM6cjBUm1Gw"},
 	fileId: {value: null, writable: true}
 });
 
