@@ -96,7 +96,7 @@ MM.Command.Italic = Object.create(MM.Command.Style, {
 MM.Command.Strikethrough = Object.create(MM.Command.Style, {
 	command: {value: "strikeThrough"},
 	label: {value: "Strike-through"},
-	keys: {value: [{keyCode: "S".charCodeAt(0), ctrlKey:true}]}
+	keys: {value: [{keyCode: "T".charCodeAt(0), ctrlKey:true}]}
 });
 
 MM.Command.Value = Object.create(MM.Command, {
